@@ -1,2 +1,2 @@
 # LibraryManagementSystem-Testing
-Test Cases for a Library Management System that I did not develop
+I was given a scenario in which I was employed as a Junior Software Tester and was assigned to lead the testing of a system produced as part of this pilot scheme. To this end I was required to produce a robust test plan, which I then used to create the documentation for the test cases in this repo (as well as the test cases themselves), by analysing a provided set of documentation and was required to ensure a robust testing strategy was adopted and practised when testing the system.
